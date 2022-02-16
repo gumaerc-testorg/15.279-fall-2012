@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains information regarding teaching note: using tables
   and graphs in text and as attachments.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-279-management-communication-for-undergraduates-fall-2012/58d23dffc074af5d406789eedd51be83_MIT15_279F12_figuresAndTxt.pdf
+file: /media/courses/15-279-management-communication-for-undergraduates-fall-2012/58d23dffc074af5d406789eedd51be83_MIT15_279F12_figuresAndTxt.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Teaching Note: Using Tables and Graphs in Text and as Attachments'
 uid: 58d23dff-c074-af5d-4067-89eedd51be83

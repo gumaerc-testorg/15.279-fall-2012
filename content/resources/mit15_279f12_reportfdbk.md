@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding feedback form: report.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-279-management-communication-for-undergraduates-fall-2012/3d62ba82f62d22234b0696f29aa31539_MIT15_279F12_reportFdbk.pdf
+file: /media/courses/15-279-management-communication-for-undergraduates-fall-2012/3d62ba82f62d22234b0696f29aa31539_MIT15_279F12_reportFdbk.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: 'Feedback Form: Report'
 uid: 3d62ba82-f62d-2223-4b06-96f29aa31539

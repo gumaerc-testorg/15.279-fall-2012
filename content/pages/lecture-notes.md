@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 9e0d741f-c93c-3951-4668-671d38a21d9e
 ---
@@ -36,7 +39,7 @@ Introduction to the Course; Strategy and Structure
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Communicating Strategically (PDF)]({{< baseurl >}}/resources/mit15_279f12_lec01and02)
 {{< tdclose >}}
 
@@ -71,7 +74,7 @@ Oral Presentations
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Giving Presentations (PDF)]({{< baseurl >}}/resources/mit15_279f12_lec03and04)
 {{< tdclose >}}
 
@@ -157,7 +160,7 @@ Writing
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 [Guidelines for Effective Writing (PDF)]({{< baseurl >}}/resources/mit15_279f12_lec07and08)
@@ -352,7 +355,7 @@ Cross-Cultural Communication
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 [Cross-Cultural Communication (PDF - 1.0MB)]({{< baseurl >}}/resources/mit15_279f12_lec17and18)
@@ -386,7 +389,7 @@ Communication Skills for Leaders
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2"" >}}
 [Communication for Leaders (PDF)]({{< baseurl >}}/resources/mit15_279f12_lec19and20)
 {{< tdclose >}}
 

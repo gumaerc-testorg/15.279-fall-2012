@@ -1,11 +1,13 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 title: Instructor Insights
 uid: 49579cf2-ad15-6f5a-9bdd-1177de337412
 ---
 
-//<!\[CDATA\[ $(function(){ $('#slider').anythingSlider({ theme: 'default', mode: 'horizontal', expand: false, resizeContents: true, showMultiple: false, easing: "swing", buildArrows: true, buildNavigation: false, buildStartStop: false, appendFowardTo: null, appendBackTo: null, appendControlsTo: null, appendNavigationTo: null, appendStartStopTo: null, toggleArrows: false, toggleControls: false, startText: "Start", stopText: "Stop", forwardText: "&raquo;", backText: "&laquo;", tooltipClass: 'tooltip', enableArrows: true, enableNavigation: true, enableStartStop: true, enableKeyboard: true, startPanel: 1, changeBy: 1, hashTags: false, infiniteSlides: true, navigationFormatter: function(index, panel) { return "" + index; }, navigationSize: false, autoPlay: false, autoPlayLocked: false, autoPlayDelayed: false, pauseOnHover: true, stopAtEnd: false, playRtl: false, delay: 3000, resumeDelay: 15000, animationTime: 600, delayBeforeAnimate : 0, onBeforeInitialize: function(e, slider) {}, onInitialized: function(e, slider) {}, onShowStart: function(e, slider) {}, onShowStop: function(e, slider) {}, onShowPause: function(e, slider) {}, onShowUnpause: function(e, slider) {}, onSlideInit: function(e, slider) {}, onSlideBegin: function(e, slider) {}, onSlideComplete: function(slider) {}, onSliderResize: function(e, slider) {}, clickForwardArrow: "click", clickBackArrow: "click", clickControls: "click focusin", clickSlideshow: "click", resumeOnVideoEnd: true, resumeOnVisible: true, addWmodeToObject: "opaque", isVideoPlaying: function(base) { return false; } }); });//\]\]>
+//\<!\[CDATA\[ $(function(){ $('#slider').anythingSlider({ theme: 'default', mode: 'horizontal', expand: false, resizeContents: true, showMultiple: false, easing: "swing", buildArrows: true, buildNavigation: false, buildStartStop: false, appendFowardTo: null, appendBackTo: null, appendControlsTo: null, appendNavigationTo: null, appendStartStopTo: null, toggleArrows: false, toggleControls: false, startText: "Start", stopText: "Stop", forwardText: "&raquo;", backText: "&laquo;", tooltipClass: 'tooltip', enableArrows: true, enableNavigation: true, enableStartStop: true, enableKeyboard: true, startPanel: 1, changeBy: 1, hashTags: false, infiniteSlides: true, navigationFormatter: function(index, panel) { return "" + index; }, navigationSize: false, autoPlay: false, autoPlayLocked: false, autoPlayDelayed: false, pauseOnHover: true, stopAtEnd: false, playRtl: false, delay: 3000, resumeDelay: 15000, animationTime: 600, delayBeforeAnimate : 0, onBeforeInitialize: function(e, slider) {}, onInitialized: function(e, slider) {}, onShowStart: function(e, slider) {}, onShowStop: function(e, slider) {}, onShowPause: function(e, slider) {}, onShowUnpause: function(e, slider) {}, onSlideInit: function(e, slider) {}, onSlideBegin: function(e, slider) {}, onSlideComplete: function(slider) {}, onSliderResize: function(e, slider) {}, clickForwardArrow: "click", clickBackArrow: "click", clickControls: "click focusin", clickSlideshow: "click", resumeOnVideoEnd: true, resumeOnVisible: true, addWmodeToObject: "opaque", isVideoPlaying: function(base) { return false; } }); });//\]\]>
 
 Course Overview
 ---------------
@@ -77,20 +79,6 @@ None
 ### Offered
 
 Every spring and fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Flat classroom with movable chairs and tables. Audiovisual requirements include a projector and speakers as some video is shown.]({{< resource_file 4703b12b-f90f-08ee-c8e5-8f444f488f2a >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    This course can be held in a tiered, lecture-style classroom, but is better taught in a classroom in which tables and chairs can be reconfigured for group work.
-    
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 
