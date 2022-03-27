@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9e0d741f-c93c-3951-4668-671d38a21d9e
 resourcetype: Document
 title: 'Teaching Note: Writing Cover Letters'
 uid: e7e63f29-309a-2aa0-6e40-c7ffa1a77a7a

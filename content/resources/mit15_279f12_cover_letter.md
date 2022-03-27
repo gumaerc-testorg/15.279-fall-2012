@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e866f131-7380-bbbf-41a4-a44d68b5dc73
 resourcetype: Document
 title: Cover Letter
 uid: 55ba8500-eea9-1a15-dc41-d65ae8c1ca2f

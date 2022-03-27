@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 2c42035c-27d5-37f4-ccc0-c890eb375090
 resourcetype: Document
 title: 'Example: Alderman Email'
 uid: a5385753-3d59-5510-732e-48f983f2cc31

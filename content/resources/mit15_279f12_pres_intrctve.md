@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e866f131-7380-bbbf-41a4-a44d68b5dc73
 resourcetype: Document
 title: Interactive Presentation
 uid: 55e6e648-84cc-a422-2dcc-767bba0d9140

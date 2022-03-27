@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9e0d741f-c93c-3951-4668-671d38a21d9e
 resourcetype: Document
 title: 'Teaching Note: Constructing a Logical Argument'
 uid: f9750ef6-2a5a-3d98-4a4f-40f6d48dbce4

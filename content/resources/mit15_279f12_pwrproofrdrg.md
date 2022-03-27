@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 2c42035c-27d5-37f4-ccc0-c890eb375090
 resourcetype: Document
 title: 'Guide: Power Proofreading'
 uid: 4f58a4bc-26b2-3431-ec3b-53e391249641

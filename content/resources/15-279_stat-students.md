@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: CourseSection
+parent_uid: 49579cf2-ad15-6f5a-9bdd-1177de337412
 resourcetype: Image
 title: 15-279_stat-students.png
 uid: 757c3739-2926-423a-e841-a29522f497d0

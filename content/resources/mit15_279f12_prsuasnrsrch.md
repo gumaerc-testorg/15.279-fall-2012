@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9e0d741f-c93c-3951-4668-671d38a21d9e
 resourcetype: Document
 title: 'Teaching Note: Persuasion: What Research Tells Us'
 uid: 9578c544-1c2e-e183-fc20-b583a50ed14d

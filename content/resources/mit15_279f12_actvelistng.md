@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9e0d741f-c93c-3951-4668-671d38a21d9e
 resourcetype: Document
 title: 'Teaching Note: Active Listening and Reflective Responses'
 uid: bb37efe9-da25-702d-1a9a-4a43b73d7fa3

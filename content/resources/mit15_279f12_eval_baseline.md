@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e866f131-7380-bbbf-41a4-a44d68b5dc73
 resourcetype: Document
 title: Baseline Self-Evaluation
 uid: fb76e47c-875d-0c31-d4da-7942f06c577e

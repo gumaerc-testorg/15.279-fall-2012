@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9e0d741f-c93c-3951-4668-671d38a21d9e
 resourcetype: Document
 title: 'Teaching Note: Clear and Concise Writing'
 uid: 491ea0a5-c116-0feb-d38c-89c03ed78f0c

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 2c42035c-27d5-37f4-ccc0-c890eb375090
 resourcetype: Document
 title: 'Guide: Strategy Checklist'
 uid: 219d0d5c-518a-80f3-d7d4-5b1a5a17fa97

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 2c42035c-27d5-37f4-ccc0-c890eb375090
 resourcetype: Document
 title: 'Exercise: Listening'
 uid: 7f61cad8-b97b-1729-a3bd-7b364b356b18

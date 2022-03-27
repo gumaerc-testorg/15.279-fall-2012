@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 2c42035c-27d5-37f4-ccc0-c890eb375090
 resourcetype: Document
 title: 'Rubric: Professional Presentations'
 uid: f82f82a9-9c8c-051e-5088-3dff08487140

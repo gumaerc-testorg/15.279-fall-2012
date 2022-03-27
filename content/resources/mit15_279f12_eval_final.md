@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e866f131-7380-bbbf-41a4-a44d68b5dc73
 resourcetype: Document
 title: Final Self-Evaluation
 uid: 6dd0fd0d-c606-c575-b4e0-578a08550bf2

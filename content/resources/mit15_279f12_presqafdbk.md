@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 2c42035c-27d5-37f4-ccc0-c890eb375090
 resourcetype: Document
 title: 'Feedback Form: Presentation with Q&A'
 uid: b8899a5a-1d9c-d516-a71f-8b1a97be2b52

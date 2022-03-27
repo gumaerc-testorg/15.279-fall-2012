@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 2c42035c-27d5-37f4-ccc0-c890eb375090
 resourcetype: Document
 title: 'Guide: Letters of Transmittal and Executive Summaries'
 uid: 15b3b882-2dcb-30c2-f4c6-55b698b61242

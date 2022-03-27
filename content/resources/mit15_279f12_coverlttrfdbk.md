@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 2c42035c-27d5-37f4-ccc0-c890eb375090
 resourcetype: Document
 title: 'Feedback Form: Persuasive Cover Letter'
 uid: a6cb4ec8-da94-ee43-1a12-1a6a686d50cf

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 2c42035c-27d5-37f4-ccc0-c890eb375090
 resourcetype: Document
 title: 'Exercise: Some Questions to Ask About Culture'
 uid: 4160f58a-e25f-c634-4d72-bc7c4cc9a199

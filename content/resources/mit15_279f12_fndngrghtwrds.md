@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 2c42035c-27d5-37f4-ccc0-c890eb375090
 resourcetype: Document
 title: 'Guide: Finding the Right Words: Essential Gambits for Interpersonal Feedback'
 uid: 8a5aee4c-e249-cbbf-1cc9-cea3feed35e5

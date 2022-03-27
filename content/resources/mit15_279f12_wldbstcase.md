@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: be00b515-e23f-425a-11ac-bec6cd1be57e
 resourcetype: Document
 title: 'Case: Media Relations: The Wildebeest'
 uid: 69af0a5b-891d-ae68-2cfa-f1dd6b64bf0b

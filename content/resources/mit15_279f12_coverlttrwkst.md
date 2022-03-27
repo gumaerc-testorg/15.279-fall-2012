@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 2c42035c-27d5-37f4-ccc0-c890eb375090
 resourcetype: Document
 title: 'Worksheet: Persuasive Cover Letter'
 uid: 26aace45-87af-9286-88a2-a5cd22a5a9fd

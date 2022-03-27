@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e866f131-7380-bbbf-41a4-a44d68b5dc73
 resourcetype: Document
 title: 'Problem Set 4 & 5: Analysis of Individual Behavior and Team Dynamics'
 uid: cf8e6d7c-b217-a6a4-f1c0-1ee62e928a70

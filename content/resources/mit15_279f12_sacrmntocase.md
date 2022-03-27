@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: be00b515-e23f-425a-11ac-bec6cd1be57e
 resourcetype: Document
 title: 'Case: Sunk in Sacramento'
 uid: 87a957de-4880-f475-6d00-d707cb6dd091
