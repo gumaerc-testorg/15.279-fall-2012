@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with the teaching notes used for each session.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 9e0d741f-c93c-3951-4668-671d38a21d9e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
-
 \[T\] = Teaching Notes from the Sloan Communication Program, courtesy of JoAnne Yates. Used with permission.
 
 {{< tableopen >}}
@@ -40,7 +45,7 @@ Introduction to the Course; Strategy and Structure
 
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-[Communicating Strategically (PDF)]({{< baseurl >}}/resources/mit15_279f12_lec01and02)
+{{% resource_link 83028872-8fa3-1e79-bcfe-da1debdc4808 "Communicating Strategically (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +80,7 @@ Oral Presentations
 
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-[Giving Presentations (PDF)]({{< baseurl >}}/resources/mit15_279f12_lec03and04)
+{{% resource_link 90da79d5-1ab4-267d-7824-fd0b32fe7ed9 "Giving Presentations (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,9 +119,9 @@ Listening; Giving and Receiving Feedback
 {{< tdopen >}}
 
 
-[Listening and Feedback (PDF)]({{< baseurl >}}/resources/mit15_279f12_lec05)
+{{% resource_link d7d0feb2-2fd9-f8f0-8e6f-0b1a474fd16f "Listening and Feedback (PDF)" %}}
 
-\[T\] [Active Listening and Reflective Responses (PDF)]({{< baseurl >}}/resources/mit15_279f12_actvelistng)
+\[T\] {{% resource_link bb37efe9-da25-702d-1a9a-4a43b73d7fa3 "Active Listening and Reflective Responses (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -138,9 +143,9 @@ Persuasion
 {{< tdopen >}}
 
 
-\[T\] [Constructing a Logical Argument (PDF)]({{< baseurl >}}/resources/mit15_279f12_cnstrctargmnt)
+\[T\] {{% resource_link f9750ef6-2a5a-3d98-4a4f-40f6d48dbce4 "Constructing a Logical Argument (PDF)" %}}
 
-\[T\] [Persuasion: What the Research Tells Us (PDF)]({{< baseurl >}}/resources/mit15_279f12_prsuasnrsrch)
+\[T\] {{% resource_link 9578c544-1c2e-e183-fc20-b583a50ed14d "Persuasion: What the Research Tells Us (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -163,13 +168,13 @@ Writing
 {{< tdopen rowspan="2" >}}
 
 
-[Guidelines for Effective Writing (PDF)]({{< baseurl >}}/resources/mit15_279f12_lec07and08)
+{{% resource_link 586b78c3-b77d-b09c-8c91-18901d877fda "Guidelines for Effective Writing (PDF)" %}}
 
-\[T\] [Conceptual Parallelism (PDF)]({{< baseurl >}}/resources/mit15_279f12_cncptprllelsm)
+\[T\] {{% resource_link 2ec7d900-3801-34cc-10fa-d5ecb2910ac3 "Conceptual Parallelism (PDF)" %}}
 
-\[T\] [Clear and Concise Writing (PDF)]({{< baseurl >}}/resources/mit15_279f12_clrcncswrtng)
+\[T\] {{% resource_link 491ea0a5-c116-0feb-d38c-89c03ed78f0c "Clear and Concise Writing (PDF)" %}}
 
-\[T\] [Style in Managerial Writing (PDF)]({{< baseurl >}}/resources/mit15_279f12_stylmngrwrtng)
+\[T\] {{% resource_link a68fac3a-ef69-42e5-1831-cf6134704077 "Style in Managerial Writing (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -209,9 +214,9 @@ Effective Teamwork
 {{< tdopen >}}
 
 
-[Guidelines for Effective Teamwork (PDF)]({{< baseurl >}}/resources/mit15_279f12_lec09)
+{{% resource_link cee944be-10fc-5496-d2cf-554fa330383a "Guidelines for Effective Teamwork (PDF)" %}}
 
-\[T\] [Teamwork Basics (PDF)]({{< baseurl >}}/resources/mit15_279f12_tmwrkbasics)
+\[T\] {{% resource_link c05e6e38-6240-584a-7d24-17d0b90e2b90 "Teamwork Basics (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -250,7 +255,7 @@ Cover Letters
 
 {{< tdclose >}}
 {{< tdopen >}}
-\[T\] [Writing Cover Letters (PDF)]({{< baseurl >}}/resources/mit15_279f12_wrtngcvrlttrs)
+\[T\] {{% resource_link e7e63f29-309a-2aa0-6e40-c7ffa1a77a7a "Writing Cover Letters (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -287,11 +292,11 @@ Writing Team Reports; Giving Team Presentations
 {{< tdopen >}}
 
 
-[Team Reports and Presentations (PDF)]({{< baseurl >}}/resources/mit15_279f12_lec13)
+{{% resource_link d1f5921a-6069-2ab1-0ad1-c9ea5fa0da65 "Team Reports and Presentations (PDF)" %}}
 
-\[T\] [Writing Reports (PDF)]({{< baseurl >}}/resources/mit15_279f12_wrtngreports)
+\[T\] {{% resource_link f9832deb-8014-47ad-8638-a5291c355bbf "Writing Reports (PDF)" %}}
 
-\[T\] [Using Figures in Text and as Attachments (PDF)]({{< baseurl >}}/resources/mit15_279f12_figuresandtxt)
+\[T\] {{% resource_link 58d23dff-c074-af5d-4067-89eedd51be83 "Using Figures in Text and as Attachments (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -358,9 +363,9 @@ Cross-Cultural Communication
 {{< tdopen rowspan="2" >}}
 
 
-[Cross-Cultural Communication (PDF - 1.0MB)]({{< baseurl >}}/resources/mit15_279f12_lec17and18)
+{{% resource_link 6da87fea-25d9-7f07-19a6-9cd25452fc7e "Cross-Cultural Communication (PDF - 1.0MB)" %}}
 
-\[T\] [Intercultural Communication (PDF)]({{< baseurl >}}/resources/mit15_279f12_intcltrlcomm)
+\[T\] {{% resource_link 5510174a-6f98-20d4-cfd5-3c1e17dbb1ac "Intercultural Communication (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -389,8 +394,8 @@ Communication Skills for Leaders
 
 
 {{< tdclose >}}
-{{< tdopen rowspan="2"" >}}
-[Communication for Leaders (PDF)]({{< baseurl >}}/resources/mit15_279f12_lec19and20)
+{{< tdopen rowspan="2" >}}
+{{% resource_link ebe50034-51ed-7af5-ad64-2f7b90fac491 "Communication for Leaders (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -417,7 +422,7 @@ Working with the Media
 
 {{< tdclose >}}
 {{< tdopen >}}
-\[T\] [Media Relations (PDF)]({{< baseurl >}}/resources/mit15_279f12_mediarltions)
+\[T\] {{% resource_link 67f63787-2f5b-8231-4714-c78bfcdbc003 "Media Relations (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -436,7 +441,7 @@ Review of Strategic Communication
 
 {{< tdclose >}}
 {{< tdopen >}}
-\[T\] [Difficult Conversations (PDF)]({{< baseurl >}}/resources/mit15_279f12_difficultconv)
+\[T\] {{% resource_link 9070e88b-f8c5-4f66-d3b1-9895668e7998 "Difficult Conversations (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
