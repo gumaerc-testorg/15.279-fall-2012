@@ -5,6 +5,7 @@ description: 'This resource contains information regarding feedback form: persua
 file: /courses/15-279-management-communication-for-undergraduates-fall-2012/a6cb4ec8da94ee431a121a6a686d50cf_MIT15_279F12_coverLttrFdbk.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding feedback form: persuasive cover letter.
-

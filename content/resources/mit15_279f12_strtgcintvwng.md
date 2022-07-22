@@ -4,6 +4,7 @@ description: 'This resource contains information regarding exercise: strategic i
 file: /courses/15-279-management-communication-for-undergraduates-fall-2012/1f90a6b4e76f7d85a959d37aff26ce40_MIT15_279F12_strtgcIntvwng.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding exercise: strategic interviewing.
-

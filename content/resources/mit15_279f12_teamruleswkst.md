@@ -5,6 +5,7 @@ description: 'This resource contains information regarding worksheet: setting te
 file: /courses/15-279-management-communication-for-undergraduates-fall-2012/b583542843ff94e861a8bdca4b45c899_MIT15_279F12_teamRulesWkst.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding worksheet: setting team ground rules.
-

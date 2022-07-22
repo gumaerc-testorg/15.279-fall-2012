@@ -4,6 +4,7 @@ description: 'This resource contains information regarding rubric: professional 
 file: /courses/15-279-management-communication-for-undergraduates-fall-2012/f82f82a99c8c051e50883dff08487140_MIT15_279F12_rubrcPrsnt.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding rubric: professional presentations.
-

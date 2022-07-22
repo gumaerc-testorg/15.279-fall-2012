@@ -4,6 +4,7 @@ description: 'This resource contains information regarding example: alderman ema
 file: /courses/15-279-management-communication-for-undergraduates-fall-2012/a53857533d595510732e48f983f2cc31_MIT15_279F12_aldermanEml.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding example: alderman email.
-

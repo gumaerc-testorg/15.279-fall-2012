@@ -5,6 +5,7 @@ description: 'This resource contains information regarding guide: finding the ri
 file: /courses/15-279-management-communication-for-undergraduates-fall-2012/8a5aee4ce249cbbf1cc9cea3feed35e5_MIT15_279F12_fndngRghtWrds.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding guide: finding the right words: essential gambits for interpersonal feedback.
-

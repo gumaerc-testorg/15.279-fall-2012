@@ -5,6 +5,7 @@ description: 'This resource contains information regarding guide: letters of tra
 file: /courses/15-279-management-communication-for-undergraduates-fall-2012/15b3b8822dcb30c2f4c655b698b61242_MIT15_279F12_lttrsExecSumm.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding guide: letters of transmittal and executive summaries.
-
