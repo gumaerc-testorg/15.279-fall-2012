@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section includes the required cases and readings for the course,
+  recommended references,  and the schedule of readings by session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: be00b515-e23f-425a-11ac-bec6cd1be57e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The following text is required for the course:
@@ -58,7 +67,7 @@ Meriam, Richard S., Franklin E. Folts, and George F. F. Lombard. "[Dashman Co.](
 Strategy and Structure (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Brent, Douglas. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Indirect Structure and Reader Response." (PDF)](http://people.ucalgary.ca/~dabrent/art/Indirect-Structure-and-Reader-Response.pdf) _Journal of Business Communication_ 22, no. 2 (1985): 5–8.
+Brent, Douglas. ["Indirect Structure and Reader Response." (PDF)](http://people.ucalgary.ca/~dabrent/art/Indirect-Structure-and-Reader-Response.pdf) _Journal of Business Communication_ 22, no. 2 (1985): 5–8.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -314,7 +323,7 @@ Scott, Mary. "[Do's and Don'ts for TV Appearances](http://www.businessknowhow.co
 
 ### Case
 
-[Media Relations: The Wildebeest (PDF)]({{< baseurl >}}/resources/mit15_279f12_wldbstcase)
+{{% resource_link 69af0a5b-891d-ae68-2cfa-f1dd6b64bf0b "Media Relations: The Wildebeest (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -332,7 +341,7 @@ Review of Strategic Communication
 
 ### Case
 
-[Sunk in Sacramento (PDF)]({{< baseurl >}}/resources/mit15_279f12_sacrmntocase)
+{{% resource_link 87a957de-4880-f475-6d00-d707cb6dd091 "Sunk in Sacramento (PDF)" %}}
 
 
 {{< tdclose >}}
