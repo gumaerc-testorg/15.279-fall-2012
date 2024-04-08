@@ -2,6 +2,7 @@
 content_type: page
 description: This section includes the required cases and readings for the course,
   recommended references,  and the schedule of readings by session.
+draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -12,388 +13,208 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
 The following text is required for the course:
 
-Phillips, Donald T. _Lincoln on Leadership: Executive Strategies for Tough Times_. Warner Books, 1993. ISBN: 9780446394598.
+Phillips, Donald T. *Lincoln on Leadership: Executive Strategies for Tough Times*. Warner Books, 1993. ISBN: 9780446394598.
 
 The following texts are recommended references and optional for the course:
 
-Munter, Mary M. _Guide to Managerial Communication_. 9th ed. Prentice Hall, 2012. ISBN: 9780132147712.
+Munter, Mary M. *Guide to Managerial Communication*. 9th ed. Prentice Hall, 2012. ISBN: 9780132147712.
 
-Williams, Joseph. _Style: Ten Lessons in Clarity and Grace_. 10th ed. Longman, 2010. ISBN: 9780205747467.
+Williams, Joseph. *Style: Ten Lessons in Clarity and Grace*. 10th ed. Longman, 2010. ISBN: 9780205747467.
 
-Kessler, Lauren, and Duncan McDonald. _When Words Collide_. Wadsworth Pub Co, 2011. ISBN: 9780495572404. \[Preview with [Google Books](http://books.google.com/books?id=CEP7ztzcnRIC&pg=PAfrontpage#v=onepage)\]
+Kessler, Lauren, and Duncan McDonald. *When Words Collide*. Wadsworth Pub Co, 2011. ISBN: 9780495572404. \[Preview with {{% resource_link "d04a1a6b-9a8c-4b3c-9283-cbbabb686529" "Google Books" %}}\]
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Introduction to the Course; Strategy and Structure
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Case
 
-Meriam, Richard S., Franklin E. Folts, and George F. F. Lombard. "[Dashman Co.](http://hbr.org/product/dashman-co/an/642001-PDF-ENG)" Harvard Business School Case. Harvard Business School Publishing. Case: 9-642-001, April 13, 1942.
+Meriam, Richard S., Franklin E. Folts, and George F. F. Lombard. "{{% resource_link "cf79e4e2-78c7-42be-b39d-75da36fd0586" "Dashman Co." %}}" Harvard Business School Case. Harvard Business School Publishing. Case: 9-642-001, April 13, 1942.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Strategy and Structure (cont.)
-{{< tdclose >}}
-{{< tdopen >}}
-Brent, Douglas. ["Indirect Structure and Reader Response." (PDF)](http://people.ucalgary.ca/~dabrent/art/Indirect-Structure-and-Reader-Response.pdf) _Journal of Business Communication_ 22, no. 2 (1985): 5–8.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Brent, Douglas. {{% resource_link "fd8f39f6-2722-4aab-ba9c-0993d584d481" "\"Indirect Structure and Reader Response.\" (PDF)" %}} *Journal of Business Communication* 22, no. 2 (1985): 5–8.
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Oral Presentations
-{{< tdclose >}}
-{{< tdopen >}}
-Daly, John, and Isa Engleberg. "[Coping with Stagefright](http://hbr.org/product/coping-with-stagefright/an/C9906A-PDF-ENG)." _Harvard Management Communication Letter_ 2, no. 6 (1999): 1–4.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Daly, John, and Isa Engleberg. "{{% resource_link "7f023e40-c9fa-42e8-8fa8-9ef4b658dc48" "Coping with Stagefright" %}}." *Harvard Management Communication Letter* 2, no. 6 (1999): 1–4.
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Oral Presentations (cont.)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Harvard Business Publishing Newsletters. "{{% resource_link "a8b6df87-daed-4238-b460-371fda70a971" "Handling Q&A: The Five Kinds of Listening" %}}." Harvard Business School Publishing, February 01, 1999.
 
-Harvard Business Publishing Newsletters. "[Handling Q&A: The Five Kinds of Listening](http://hbr.org/product/handling-q-a-the-five-kinds-of-listening/an/C9902C-PDF-ENG)." Harvard Business School Publishing, February 01, 1999.
+Zelazny, Gene. "From Data to Chart." In *Say It With Charts: The Executive's Guide to Visual Communication*. McGraw-Hill, 2001. ISBN: 9780071369978.
 
-Zelazny, Gene. "From Data to Chart." In _Say It With Charts: The Executive's Guide to Visual Communication_. McGraw-Hill, 2001. ISBN: 9780071369978.
+Alley, Michael. "{{% resource_link "ae027b7f-801c-41ac-9dcc-4d20566c2b9c" "Rethinking the Design of Presentation Slides: The Assertion-Evidence Structure" %}}."
 
-Alley, Michael. "[Rethinking the Design of Presentation Slides: The Assertion-Evidence Structure](http://writing.engr.psu.edu/slides.html)."
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Listening; Giving and Receiving Feedback
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Case
 
-Barnes, Louis B. "[Managing Interpersonal Feedback](http://hbr.org/product/managing-interpersonal-feedback/an/483027-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9–483-027, September 14, 1982.
+Barnes, Louis B. "{{% resource_link "dbce2a21-8f6f-4d82-8fde-303ae0e0bfd4" "Managing Interpersonal Feedback" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9–483-027, September 14, 1982.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Persuasion
-{{< tdclose >}}
-{{< tdopen >}}
-Koerth-Baker, Maggie. "[The Mind of a Flip-Flopper](http://www.nytimes.com/2012/08/19/magazine/the-mind-of-a-flip-flopper.html)," _New York Times_, August 15, 2012.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Koerth-Baker, Maggie. "{{% resource_link "34b4e765-9eac-40d1-bad0-b88d70274edd" "The Mind of a Flip-Flopper" %}}," *New York Times*, August 15, 2012.
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Writing
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Writing (cont.)
-{{< tdclose >}}
-{{< tdopen >}}
-Lu, Chi. "Catalogue of Genres." Part V in _Wen Fu (The Art of Writing)_. Far Corner Books, 1987. ISBN: 9780932576408.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Lu, Chi. "Catalogue of Genres." Part V in *Wen Fu (The Art of Writing)*. Far Corner Books, 1987. ISBN: 9780932576408.
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Effective Teamwork
-{{< tdclose >}}
-{{< tdopen >}}
-Pentland, Alex. "[The New Science of Building Great Teams](http://hbr.org/2012/04/the-new-science-of-building-great-teams)." _Harvard Business Review_ (2012).
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Pentland, Alex. "{{% resource_link "3c31e4ae-d842-457f-9884-1f48f633d6d3" "The New Science of Building Great Teams" %}}." *Harvard Business Review* (2012).
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Team Meeting
-{{< tdclose >}}
-{{< tdopen >}}
-Abele, John. "[Bringing Minds Together](http://hbr.org/2011/07/bringing-minds-together/)." _Harvard Business Review_ (2011).
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Abele, John. "{{% resource_link "6bbfbe67-dc6b-4073-b251-32ef41db6f3b" "Bringing Minds Together" %}}." *Harvard Business Review* (2011).
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Cover Letters
-{{< tdclose >}}
-{{< tdopen >}}
-Internweb.com. "[Top Seven Cover Letter Myths](http://www.internweb.com/top7.asp)."
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Internweb.com. "{{% resource_link "8e66879a-617e-4bfe-a6f1-5775179383f7" "Top Seven Cover Letter Myths" %}}."
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Interviewing
-{{< tdclose >}}
-{{< tdopen >}}
-Hayden, D. A., and Michael Wilder. "[How to Sell Yourself in an Interview](http://www.boston.com/jobs/college/articles/2008/01/07/how_to_sell_yourself_in_an_interview/)." Boston.com, January 7, 2008.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Hayden, D. A., and Michael Wilder. {{% resource_link "74acbad4-b2bf-499b-9ba8-ba82b79826cd" "\"How to Sell Yourself in an Interview.\" (PDF)" %}} Boston.com, January 7, 2008.
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Writing Team Reports; Giving Team Presentations
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Communicating Electronically
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Individual Conferences / Team Meetings
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Individual Conferences / Team Meetings (cont.)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Cross-Cultural Communication
-{{< tdclose >}}
-{{< tdopen >}}
-Tannen, Deborah. "[The Power of Talk: Who Gets Heard and Why](http://hbr.org/product/power-of-talk-who-gets-heard-and-why/an/95510-PDF-ENG)." _Harvard Business Review_ 73, no. 5 (1995): 138–48.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Tannen, Deborah. "{{% resource_link "ae3822da-4ab1-4deb-8f38-854aed62908d" "The Power of Talk: Who Gets Heard and Why" %}}." *Harvard Business Review* 73, no. 5 (1995): 138–48.
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Cross-Cultural Communication (cont.); Gender Communication
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Communication Skills for Leaders
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Phillips, Donald T. "People." Part I in *Lincoln on Leadership: Executive Strategies for Tough Times*. Warner Books, 1993, pp. 11–38. ISBN: 9780446394598.
 
-Phillips, Donald T. "People." Part I in _Lincoln on Leadership: Executive Strategies for Tough Times_. Warner Books, 1993, pp. 11–38. ISBN: 9780446394598.
+———. "Communication." Part IV in *Lincoln on Leadership: Executive Strategies for Tough Times*. Warner Books, 1993, pp. 143–69. ISBN: 9780446394598.
 
-———. "Communication." Part IV in _Lincoln on Leadership: Executive Strategies for Tough Times_. Warner Books, 1993, pp. 143–69. ISBN: 9780446394598.
+Bernstein, May. "{{% resource_link "0b75208e-8593-488a-9828-5eba0fb01933" "The Thought Leader Interview: Bill George" %}}." *Strategy + Business* 49 (2007): 1–7.
 
-Bernstein, May. "[The Thought Leader Interview: Bill George](http://www.strategy-business.com/article/07409?gko=f2d66)." _Strategy + Business_ 49 (2007): 1–7.
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Communication Skills for Leaders (cont.)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Working with the Media
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Scott, Mary. "[Do's and Don'ts for TV Appearances](http://www.businessknowhow.com/marketing/tvinterview.htm)." Business Know-how.
+Scott, Mary. "{{% resource_link "fd86ba98-b5a7-4629-9329-87c5e98e1825" "Do's and Don'ts for TV Appearances" %}}." Business Know-how.
 
 ### Case
 
-{{% resource_link 69af0a5b-891d-ae68-2cfa-f1dd6b64bf0b "Media Relations: The Wildebeest (PDF)" %}}
+{{% resource_link "69af0a5b-891d-ae68-2cfa-f1dd6b64bf0b" "Media Relations: The Wildebeest (PDF)" %}}
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Review of Strategic Communication
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Case
 
-{{% resource_link 87a957de-4880-f475-6d00-d707cb6dd091 "Sunk in Sacramento (PDF)" %}}
+{{% resource_link "87a957de-4880-f475-6d00-d707cb6dd091" "Sunk in Sacramento (PDF)" %}}
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Team Report Presentations
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Team Report Presentations (cont.)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Team Report Presentations (cont.)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Course Wrap-Up
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
