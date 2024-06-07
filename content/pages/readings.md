@@ -23,7 +23,7 @@ Munter, Mary M. *Guide to Managerial Communication*. 9th ed. Prentice Hall, 2012
 
 Williams, Joseph. *Style: Ten Lessons in Clarity and Grace*. 10th ed. Longman, 2010. ISBN: 9780205747467.
 
-Kessler, Lauren, and Duncan McDonald. *When Words Collide*. Wadsworth Pub Co, 2011. ISBN: 9780495572404. \[Preview with {{% resource_link "d04a1a6b-9a8c-4b3c-9283-cbbabb686529" "Google Books" %}}\]
+Kessler, Lauren, and Duncan McDonald. *When Words Collide*. Wadsworth Pub Co, 2011. ISBN: 9780495572404. \[Preview with [Google Books](http://books.google.com/books?id=CEP7ztzcnRIC&pg=PAfrontpage#v=onepage)\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -39,31 +39,31 @@ Introduction to the Course; Strategy and Structure
 
 ### Case
 
-Meriam, Richard S., Franklin E. Folts, and George F. F. Lombard. "{{% resource_link "cf79e4e2-78c7-42be-b39d-75da36fd0586" "Dashman Co." %}}" Harvard Business School Case. Harvard Business School Publishing. Case: 9-642-001, April 13, 1942.
+Meriam, Richard S., Franklin E. Folts, and George F. F. Lombard. "[Dashman Co.](http://hbr.org/product/dashman-co/an/642001-PDF-ENG)" Harvard Business School Case. Harvard Business School Publishing. Case: 9-642-001, April 13, 1942.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
 Strategy and Structure (cont.)
 {{< tdclose >}}{{< tdopen >}}
-Brent, Douglas. {{% resource_link "fd8f39f6-2722-4aab-ba9c-0993d584d481" "\"Indirect Structure and Reader Response.\" (PDF)" %}} *Journal of Business Communication* 22, no. 2 (1985): 5–8.
+Brent, Douglas. ["Indirect Structure and Reader Response." (PDF)](http://people.ucalgary.ca/~dabrent/art/Indirect-Structure-and-Reader-Response.pdf) *Journal of Business Communication* 22, no. 2 (1985): 5–8.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
 Oral Presentations
 {{< tdclose >}}{{< tdopen >}}
-Daly, John, and Isa Engleberg. "{{% resource_link "7f023e40-c9fa-42e8-8fa8-9ef4b658dc48" "Coping with Stagefright" %}}." *Harvard Management Communication Letter* 2, no. 6 (1999): 1–4.
+Daly, John, and Isa Engleberg. "[Coping with Stagefright](http://hbr.org/product/coping-with-stagefright/an/C9906A-PDF-ENG)." *Harvard Management Communication Letter* 2, no. 6 (1999): 1–4.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
 Oral Presentations (cont.)
 {{< tdclose >}}{{< tdopen >}}
 
-Harvard Business Publishing Newsletters. "{{% resource_link "a8b6df87-daed-4238-b460-371fda70a971" "Handling Q&A: The Five Kinds of Listening" %}}." Harvard Business School Publishing, February 01, 1999.
+Harvard Business Publishing Newsletters. "[Handling Q&A: The Five Kinds of Listening](http://hbr.org/product/handling-q-a-the-five-kinds-of-listening/an/C9902C-PDF-ENG)." Harvard Business School Publishing, February 01, 1999.
 
 Zelazny, Gene. "From Data to Chart." In *Say It With Charts: The Executive's Guide to Visual Communication*. McGraw-Hill, 2001. ISBN: 9780071369978.
 
-Alley, Michael. "{{% resource_link "ae027b7f-801c-41ac-9dcc-4d20566c2b9c" "Rethinking the Design of Presentation Slides: The Assertion-Evidence Structure" %}}."
+Alley, Michael. "[Rethinking the Design of Presentation Slides: The Assertion-Evidence Structure](http://writing.engr.psu.edu/slides.html)."
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -73,14 +73,14 @@ Listening; Giving and Receiving Feedback
 
 ### Case
 
-Barnes, Louis B. "{{% resource_link "dbce2a21-8f6f-4d82-8fde-303ae0e0bfd4" "Managing Interpersonal Feedback" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9–483-027, September 14, 1982.
+Barnes, Louis B. "[Managing Interpersonal Feedback](http://hbr.org/product/managing-interpersonal-feedback/an/483027-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9–483-027, September 14, 1982.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
 Persuasion
 {{< tdclose >}}{{< tdopen >}}
-Koerth-Baker, Maggie. "{{% resource_link "34b4e765-9eac-40d1-bad0-b88d70274edd" "The Mind of a Flip-Flopper" %}}," *New York Times*, August 15, 2012.
+Koerth-Baker, Maggie. "[The Mind of a Flip-Flopper](http://www.nytimes.com/2012/08/19/magazine/the-mind-of-a-flip-flopper.html)," *New York Times*, August 15, 2012.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
@@ -98,25 +98,25 @@ Lu, Chi. "Catalogue of Genres." Part V in *Wen Fu (The Art of Writing)*. Far Cor
 {{< tdclose >}}{{< tdopen >}}
 Effective Teamwork
 {{< tdclose >}}{{< tdopen >}}
-Pentland, Alex. "{{% resource_link "3c31e4ae-d842-457f-9884-1f48f633d6d3" "The New Science of Building Great Teams" %}}." *Harvard Business Review* (2012).
+Pentland, Alex. "[The New Science of Building Great Teams](http://hbr.org/2012/04/the-new-science-of-building-great-teams)." *Harvard Business Review* (2012).
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
 Team Meeting
 {{< tdclose >}}{{< tdopen >}}
-Abele, John. "{{% resource_link "6bbfbe67-dc6b-4073-b251-32ef41db6f3b" "Bringing Minds Together" %}}." *Harvard Business Review* (2011).
+Abele, John. "[Bringing Minds Together](http://hbr.org/2011/07/bringing-minds-together/)." *Harvard Business Review* (2011).
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
 Cover Letters
 {{< tdclose >}}{{< tdopen >}}
-Internweb.com. "{{% resource_link "8e66879a-617e-4bfe-a6f1-5775179383f7" "Top Seven Cover Letter Myths" %}}."
+Internweb.com. "[Top Seven Cover Letter Myths](http://www.internweb.com/top7.asp)."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
 Interviewing
 {{< tdclose >}}{{< tdopen >}}
-Hayden, D. A., and Michael Wilder. {{% resource_link "74acbad4-b2bf-499b-9ba8-ba82b79826cd" "\"How to Sell Yourself in an Interview.\" (PDF)" %}} Boston.com, January 7, 2008.
+Hayden, D. A., and Michael Wilder. ["How to Sell Yourself in an Interview." (PDF)](https://ocw.smithw.org/general/boston-globe-sell-yourself-interview.pdf) Boston.com, January 7, 2008.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
@@ -146,7 +146,7 @@ Individual Conferences / Team Meetings (cont.)
 {{< tdclose >}}{{< tdopen >}}
 Cross-Cultural Communication
 {{< tdclose >}}{{< tdopen >}}
-Tannen, Deborah. "{{% resource_link "ae3822da-4ab1-4deb-8f38-854aed62908d" "The Power of Talk: Who Gets Heard and Why" %}}." *Harvard Business Review* 73, no. 5 (1995): 138–48.
+Tannen, Deborah. "[The Power of Talk: Who Gets Heard and Why](http://hbr.org/product/power-of-talk-who-gets-heard-and-why/an/95510-PDF-ENG)." *Harvard Business Review* 73, no. 5 (1995): 138–48.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
@@ -163,7 +163,7 @@ Phillips, Donald T. "People." Part I in *Lincoln on Leadership: Executive Strate
 
 ———. "Communication." Part IV in *Lincoln on Leadership: Executive Strategies for Tough Times*. Warner Books, 1993, pp. 143–69. ISBN: 9780446394598.
 
-Bernstein, May. "{{% resource_link "0b75208e-8593-488a-9828-5eba0fb01933" "The Thought Leader Interview: Bill George" %}}." *Strategy + Business* 49 (2007): 1–7.
+Bernstein, May. "[The Thought Leader Interview: Bill George](http://www.strategy-business.com/article/07409?gko=f2d66)." *Strategy + Business* 49 (2007): 1–7.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
@@ -177,7 +177,7 @@ Communication Skills for Leaders (cont.)
 Working with the Media
 {{< tdclose >}}{{< tdopen >}}
 
-Scott, Mary. "{{% resource_link "fd86ba98-b5a7-4629-9329-87c5e98e1825" "Do's and Don'ts for TV Appearances" %}}." Business Know-how.
+Scott, Mary. "[Do's and Don'ts for TV Appearances](http://www.businessknowhow.com/marketing/tvinterview.htm)." Business Know-how.
 
 ### Case
 

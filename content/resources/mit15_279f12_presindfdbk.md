@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding feedback form: team presentation
   individual component.'
 file: /courses/15-279-management-communication-for-undergraduates-fall-2012/4f86aa03cc9a5758fc1282299f6e2366_MIT15_279F12_presIndFdbk.pdf
+file_size: 113505
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

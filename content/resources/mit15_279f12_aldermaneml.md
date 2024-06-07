@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding example: alderman email.'
 file: /courses/15-279-management-communication-for-undergraduates-fall-2012/a53857533d595510732e48f983f2cc31_MIT15_279F12_aldermanEml.pdf
+file_size: 49894
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
