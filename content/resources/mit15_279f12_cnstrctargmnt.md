@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding teaching note: constructing
   a logical argument.'
 file: /courses/15-279-management-communication-for-undergraduates-fall-2012/f9750ef62a5a3d984a4f40f6d48dbce4_MIT15_279F12_cnstrctArgmnt.pdf
+file_size: 601711
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

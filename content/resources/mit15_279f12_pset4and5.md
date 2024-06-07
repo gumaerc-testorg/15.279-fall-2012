@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding analysis of individual behavior
   and team dynamics.
 file: /courses/15-279-management-communication-for-undergraduates-fall-2012/cf8e6d7cb217a6a4f1c01ee62e928a70_MIT15_279F12_pset4and5.pdf
+file_size: 44815
 file_type: application/pdf
 learning_resource_types:
 - Assignments

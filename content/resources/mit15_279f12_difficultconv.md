@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding teaching note: difficult
   conversations.'
 file: /courses/15-279-management-communication-for-undergraduates-fall-2012/9070e88bf8c54f66d3b19895668e7998_MIT15_279F12_difficultConv.pdf
+file_size: 581357
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

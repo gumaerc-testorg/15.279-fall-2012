@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding teaching note: writing
   reports.'
 file: /courses/15-279-management-communication-for-undergraduates-fall-2012/f9832deb801447ad8638a5291c355bbf_MIT15_279F12_wrtngReports.pdf
+file_size: 55567
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

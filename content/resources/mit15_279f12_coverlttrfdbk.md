@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding feedback form: persuasive
   cover letter.'
 file: /courses/15-279-management-communication-for-undergraduates-fall-2012/a6cb4ec8da94ee431a121a6a686d50cf_MIT15_279F12_coverLttrFdbk.pdf
+file_size: 46583
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

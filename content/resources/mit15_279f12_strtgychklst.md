@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding guide: strategy checklist.'
 file: /courses/15-279-management-communication-for-undergraduates-fall-2012/219d0d5c518a80f3d7d45b1a5a17fa97_MIT15_279F12_strtgyChklst.pdf
+file_size: 548992
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
