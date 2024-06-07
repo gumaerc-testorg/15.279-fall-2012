@@ -3,6 +3,7 @@ content_type: resource
 description: "This resource contains information regarding exercise: the CEO\u2019\
   s world tour."
 file: /courses/15-279-management-communication-for-undergraduates-fall-2012/d266226984b8a7dae55985922fcb1602_MIT15_279F12_ceoWorldTr.pdf
+file_size: 574960
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

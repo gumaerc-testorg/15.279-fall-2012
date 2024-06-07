@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding feedback form: presentation
   with interaction.'
 file: /courses/15-279-management-communication-for-undergraduates-fall-2012/533c4c45408a74d4537bc5e281c5412a_MIT15_279F12_presInterFdbk.pdf
+file_size: 108354
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

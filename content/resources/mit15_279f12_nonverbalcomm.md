@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding guide: nonverbal communication
   variables.'
 file: /courses/15-279-management-communication-for-undergraduates-fall-2012/251fccce2dabe0f6ceafb86218d74c57_MIT15_279F12_nonVerbalComm.pdf
+file_size: 65198
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

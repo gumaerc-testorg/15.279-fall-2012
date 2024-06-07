@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding team report.
 file: /courses/15-279-management-communication-for-undergraduates-fall-2012/1daee4a3449969a67a0790f5110bd096_MIT15_279F12_team_report.pdf
+file_size: 514985
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding exercise: craigstone corporation.'
 file: /courses/15-279-management-communication-for-undergraduates-fall-2012/e61f460445eeb4d4b5208903752a4961_MIT15_279F12_craigstneCorp.pdf
+file_size: 101260
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
