@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding presentation with q&a.
-file: /courses/15-279-management-communication-for-undergraduates-fall-2012/418c58809c6a256aecdca3e5d3a6cb9f_MIT15_279F12_pres_qa.pdf
+file: /ol-ocw-studio-app/courses/15-279-management-communication-for-undergraduates-fall-2012/418c58809c6a256aecdca3e5d3a6cb9f_MIT15_279F12_pres_qa.pdf
 file_size: 506094
 file_type: application/pdf
 learning_resource_types:

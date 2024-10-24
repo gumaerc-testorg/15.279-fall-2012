@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding guide: letters of transmittal
   and executive summaries.'
-file: /courses/15-279-management-communication-for-undergraduates-fall-2012/15b3b8822dcb30c2f4c655b698b61242_MIT15_279F12_lttrsExecSumm.pdf
+file: /ol-ocw-studio-app/courses/15-279-management-communication-for-undergraduates-fall-2012/15b3b8822dcb30c2f4c655b698b61242_MIT15_279F12_lttrsExecSumm.pdf
 file_size: 48492
 file_type: application/pdf
 learning_resource_types: []
