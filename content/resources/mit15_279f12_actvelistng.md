@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding teaching note: active listening
   and reflective responses.'
-file: /courses/15-279-management-communication-for-undergraduates-fall-2012/bb37efe9da25702d1a9a4a43b73d7fa3_MIT15_279F12_actveListng.pdf
+file: /ol-ocw-studio-app/courses/15-279-management-communication-for-undergraduates-fall-2012/bb37efe9da25702d1a9a4a43b73d7fa3_MIT15_279F12_actveListng.pdf
 file_size: 514256
 file_type: application/pdf
 learning_resource_types:
