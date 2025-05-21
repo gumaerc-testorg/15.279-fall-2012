@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding worksheet: setting team
   ground rules.'
-file: /ol-ocw-studio-app/courses/15-279-management-communication-for-undergraduates-fall-2012/b583542843ff94e861a8bdca4b45c899_MIT15_279F12_teamRulesWkst.pdf
+file: /courses/15-279-management-communication-for-undergraduates-fall-2012/b583542843ff94e861a8bdca4b45c899_MIT15_279F12_teamRulesWkst.pdf
 file_size: 59279
 file_type: application/pdf
 learning_resource_types: []
