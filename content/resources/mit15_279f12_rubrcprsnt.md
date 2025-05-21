@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding rubric: professional presentations.'
-file: /ol-ocw-studio-app/courses/15-279-management-communication-for-undergraduates-fall-2012/f82f82a99c8c051e50883dff08487140_MIT15_279F12_rubrcPrsnt.pdf
+file: /courses/15-279-management-communication-for-undergraduates-fall-2012/f82f82a99c8c051e50883dff08487140_MIT15_279F12_rubrcPrsnt.pdf
 file_size: 571559
 file_type: application/pdf
 learning_resource_types: []

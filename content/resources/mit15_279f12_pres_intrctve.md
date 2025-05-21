@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding interactive presentation.
-file: /ol-ocw-studio-app/courses/15-279-management-communication-for-undergraduates-fall-2012/55e6e64884cca4222dcc767bba0d9140_MIT15_279F12_pres_intrctve.pdf
+file: /courses/15-279-management-communication-for-undergraduates-fall-2012/55e6e64884cca4222dcc767bba0d9140_MIT15_279F12_pres_intrctve.pdf
 file_size: 507743
 file_type: application/pdf
 learning_resource_types:

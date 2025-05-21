@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding feedback form: report.'
-file: /ol-ocw-studio-app/courses/15-279-management-communication-for-undergraduates-fall-2012/3d62ba82f62d22234b0696f29aa31539_MIT15_279F12_reportFdbk.pdf
+file: /courses/15-279-management-communication-for-undergraduates-fall-2012/3d62ba82f62d22234b0696f29aa31539_MIT15_279F12_reportFdbk.pdf
 file_size: 570756
 file_type: application/pdf
 learning_resource_types: []

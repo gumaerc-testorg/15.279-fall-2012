@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding baseline self-evaluation.
-file: /ol-ocw-studio-app/courses/15-279-management-communication-for-undergraduates-fall-2012/fb76e47c875d0c31d4da7942f06c577e_MIT15_279F12_eval_baseline.pdf
+file: /courses/15-279-management-communication-for-undergraduates-fall-2012/fb76e47c875d0c31d4da7942f06c577e_MIT15_279F12_eval_baseline.pdf
 file_size: 44796
 file_type: application/pdf
 learning_resource_types:
