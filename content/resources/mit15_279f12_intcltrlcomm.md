@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding teaching note: intercultural
   communication.'
-file: /ol-ocw-studio-app/courses/15-279-management-communication-for-undergraduates-fall-2012/5510174a6f9820d4cfd53c1e17dbb1ac_MIT15_279F12_intcltrlComm.pdf
+file: /courses/15-279-management-communication-for-undergraduates-fall-2012/5510174a6f9820d4cfd53c1e17dbb1ac_MIT15_279F12_intcltrlComm.pdf
 file_size: 639020
 file_type: application/pdf
 learning_resource_types:

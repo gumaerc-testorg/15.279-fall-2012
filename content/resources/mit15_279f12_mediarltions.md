@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding teaching note: media relations.'
-file: /ol-ocw-studio-app/courses/15-279-management-communication-for-undergraduates-fall-2012/67f637872f5b82314714c78bfcdbc003_MIT15_279F12_mediaRltions.pdf
+file: /courses/15-279-management-communication-for-undergraduates-fall-2012/67f637872f5b82314714c78bfcdbc003_MIT15_279F12_mediaRltions.pdf
 file_size: 576461
 file_type: application/pdf
 learning_resource_types:
