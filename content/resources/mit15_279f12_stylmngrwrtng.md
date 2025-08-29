@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding teaching note: style in
   managerial writing.'
-file: /courses/15-279-management-communication-for-undergraduates-fall-2012/a68fac3aef6942e51831cf6134704077_MIT15_279F12_stylMngrWrtng.pdf
+file: /ol-ocw-studio-app/courses/15-279-management-communication-for-undergraduates-fall-2012/a68fac3aef6942e51831cf6134704077_MIT15_279F12_stylMngrWrtng.pdf
 file_size: 586257
 file_type: application/pdf
 learning_resource_types:

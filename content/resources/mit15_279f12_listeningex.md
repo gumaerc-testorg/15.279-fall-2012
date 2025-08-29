@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding exercise: listening.'
-file: /courses/15-279-management-communication-for-undergraduates-fall-2012/7f61cad8b97b1729a3bd7b364b356b18_MIT15_279F12_listeningEx.pdf
+file: /ol-ocw-studio-app/courses/15-279-management-communication-for-undergraduates-fall-2012/7f61cad8b97b1729a3bd7b364b356b18_MIT15_279F12_listeningEx.pdf
 file_size: 103846
 file_type: application/pdf
 learning_resource_types: []

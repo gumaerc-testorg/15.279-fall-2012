@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding teaching note: clear and
   concise writing.'
-file: /courses/15-279-management-communication-for-undergraduates-fall-2012/491ea0a5c1160febd38c89c03ed78f0c_MIT15_279F12_clrCncsWrtng.pdf
+file: /ol-ocw-studio-app/courses/15-279-management-communication-for-undergraduates-fall-2012/491ea0a5c1160febd38c89c03ed78f0c_MIT15_279F12_clrCncsWrtng.pdf
 file_size: 57343
 file_type: application/pdf
 learning_resource_types:

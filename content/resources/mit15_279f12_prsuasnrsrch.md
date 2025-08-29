@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding what research tells us.
-file: /courses/15-279-management-communication-for-undergraduates-fall-2012/9578c5441c2ee183fc20b583a50ed14d_MIT15_279F12_prsuasnRsrch.pdf
+file: /ol-ocw-studio-app/courses/15-279-management-communication-for-undergraduates-fall-2012/9578c5441c2ee183fc20b583a50ed14d_MIT15_279F12_prsuasnRsrch.pdf
 file_size: 59710
 file_type: application/pdf
 learning_resource_types:

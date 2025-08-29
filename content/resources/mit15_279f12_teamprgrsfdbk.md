@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding feedback form: team progress
   report.'
-file: /courses/15-279-management-communication-for-undergraduates-fall-2012/d5a7747c68da91ae07116bc71efcc14f_MIT15_279F12_teamPrgrsFdbk.pdf
+file: /ol-ocw-studio-app/courses/15-279-management-communication-for-undergraduates-fall-2012/d5a7747c68da91ae07116bc71efcc14f_MIT15_279F12_teamPrgrsFdbk.pdf
 file_size: 85153
 file_type: application/pdf
 learning_resource_types: []
